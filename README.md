@@ -27,4 +27,6 @@ It can be used for small or mid sized repository where it's hard to find proper 
 - **Langchain** is used for interacting with LLMs.
 - Using OpenAI's **gpt-3.5-turbo** as LLM.
 - Used **pygithub** for traversing through github repo.
-- **Flask** is used for backend server. Deployed on [pythonanywhere](https://www.pythonanywhere.com/) (thanks for free hosting for some time 😊)
+- **Flask** is used for backend server. 
+
+
